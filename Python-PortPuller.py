@@ -17,7 +17,7 @@ if len(sys.argv) < 2:
 
 nmapfile = sys.argv[1]
 
-command = " grep 'open' "+ nmapfile +" | cut -d'/' -f1 | grep -v 'Nmap' | tr '\\n' ','"
+command = " grep 'open' "+ nmapfile +" | cut -d'/' -f1 | grep -v 'Nmap' | sort -u | tr '\\n' ','"
 process = os.popen(command)
 
 print "Ports pulled from the scan:"
