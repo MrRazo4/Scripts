@@ -66,6 +66,8 @@ https://github.com/portcullislabs/rdp-sec-check.git
 https://github.com/portcullislabs/enum4linux.git
 https://github.com/portcullislabs/ssl-cipher-suite-enum.git
 https://github.com/rsmudge/metasploit-loader.git
+https://github.com/bararchy/ruby-SSLscanner.git
+https://github.com/ajinabraham/Mobile-Security-Framework-MobSF.git
 EOF`
 
 cd /home/jamie/Desktop/Tools
