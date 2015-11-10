@@ -65,6 +65,7 @@ https://github.com/1N3/Sn1per.git
 https://github.com/portcullislabs/rdp-sec-check.git
 https://github.com/portcullislabs/enum4linux.git
 https://github.com/portcullislabs/ssl-cipher-suite-enum.git
+https://github.com/rsmudge/metasploit-loader.git
 EOF`
 
 cd /home/jamie/Desktop/Tools
